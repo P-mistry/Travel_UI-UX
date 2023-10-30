@@ -1,7 +1,7 @@
 // NAVIGAT
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+    { href: '/', key: 'how_Exlink_work', label: 'How Exlink Work?' },
     { href: '/', key: 'services', label: 'Services' },
     { href: '/', key: 'pricing ', label: 'Pricing ' },
     { href: '/', key: 'contact_us', label: 'Contact Us' },
@@ -29,7 +29,7 @@ export const NAV_LINKS = [
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "Schedule an adventure with friends. On holidays, there are many interesting offers from Exlink. That way, there's no more discussion",
     },
     {
       title: 'Technology using augment reality',
@@ -52,8 +52,8 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
-        'Press Releases',
+        'About Exlink',
+        'Press Releases',  
         'Environment',
         'Jobs',
         'Privacy Policy',
@@ -61,16 +61,16 @@ export const NAV_LINKS = [
       ],
     },
     {
-      title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      title: 'Exlink',
+      links: ['Climbing ', 'Hiking ', 'Exlink '],
     },
   ];
   
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Admin Officer', value: '+91 ---------' },
+      { label: 'Email Officer', value: 'Exlink@akinthil.com' },
     ],
   };
   
