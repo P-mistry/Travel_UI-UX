@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+![travel uiux poster](https://github.com/P-mistry/Travel_UI-UX/assets/75114126/6537618f-4a6d-4835-952d-49324fbeb429)
 
 ```bash
 npm run dev
